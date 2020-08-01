@@ -1,0 +1,2 @@
+# Short introduction to coding VUMAT in Abaqus
+A general introduction to user-materials is given in the Powerpoint file. A linear elastic user material is provided as an example in the "sim" folder; with the corresponding theory described in the aforementioned Powerpoint file. 
